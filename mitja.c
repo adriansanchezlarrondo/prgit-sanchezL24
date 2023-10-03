@@ -13,7 +13,7 @@ int main() {
 		suma=suma+nou_valor;
 		numero_repeticions=numero_repeticions+1;
 		printf("SanchezL24 Vols continuar (s/n): ");
-		scanf("%s",&consulta);.
+		scanf("%s",&consulta);
 	}
 	mitja=suma/numero_repeticions;
 	printf("SanchezL24 La mitja és: %.2f\n",mitja);	
